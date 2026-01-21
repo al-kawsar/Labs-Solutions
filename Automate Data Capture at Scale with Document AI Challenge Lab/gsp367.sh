@@ -135,7 +135,7 @@ gcloud functions deploy process-invoices \
   --gen2 \
   --region=${CLOUD_FUNCTION_LOCATION} \
   --entry-point=process_invoice \
-  --runtime=python39 \
+  --runtime=python3.13 \
   --service-account=${PROJECT_ID}@appspot.gserviceaccount.com \
   --source=cloud-functions/process-invoices \
   --timeout=400 \
@@ -175,7 +175,7 @@ gcloud functions deploy process-invoices \
   --gen2 \
   --region=${CLOUD_FUNCTION_LOCATION} \
   --entry-point=process_invoice \
-  --runtime=python39 \
+  --runtime=python3.13 \
   --source=cloud-functions/process-invoices \
   --timeout=400 \
   --trigger-resource=gs://${PROJECT_ID}-input-invoices \

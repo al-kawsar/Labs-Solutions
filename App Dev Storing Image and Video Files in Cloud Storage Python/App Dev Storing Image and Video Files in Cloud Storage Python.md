@@ -7,8 +7,9 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/App%20Dev%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20Python/gsp185.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/App%20Dev%20Storing%20Image%20and%20Video%20Files%20in%20Cloud%20Storage%20Python/gsp185.sh
 
 sudo chmod +x gsp185.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp185.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

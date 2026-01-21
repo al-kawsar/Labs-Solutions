@@ -5,22 +5,23 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud%20Challenge%20Lab/gsp398.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Classify%20Images%20with%20TensorFlow%20on%20Google%20Cloud%20Challenge%20Lab/gsp398.sh
 
 sudo chmod +x *.sh
 
 ./*.sh
 ```
 
-* Download `cnn_challenge_lab-v1.0.0.ipynb` file from [here](https://drive.google.com/uc?export=download&id=1cxn75Welotezp3x-4ZZ7MJti08ao5l-f)
+- Download `cnn_challenge_lab-v1.0.0.ipynb` file from [here](https://drive.google.com/uc?export=download&id=1cxn75Welotezp3x-4ZZ7MJti08ao5l-f)
 
-# 🎉 Woohoo! You Did It! 🎉  
+# 🎉 Woohoo! You Did It! 🎉
 
 Your hard work and determination paid off! 💻  
 You've successfully completed the lab. **Way to go!** 🚀
 
-### 💬 Stay Connected with Our Community!  
-👉 Join the conversation and never miss an update:  📢 [Telegram Channel](https://t.me/cloudwalabanda)  
-👥 [Discussion Group](https://t.me/cloudwalabandachats)  
+### 💬 Stay Connected with Our Community!
+
+👉 Join the conversation and never miss an update: 📢 [Telegram Channel](https://t.me/cloudwalabanda)  
+👥 [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

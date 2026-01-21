@@ -5,32 +5,32 @@
 ### 🚀 Run the following commands in **Cloud Shell**:
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Modernizing%20Applications%20with%20Apigee%20X/gsp842.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Modernizing%20Applications%20with%20Apigee%20X/gsp842.sh
 
 sudo chmod +x gsp842.sh
 
 ./gsp842.sh
 ```
 
-### 🔧 Specify the following Proxy details:  
+### 🔧 Specify the following Proxy details:
 
-| Property | Value |
-| :---: | :----: |
-| Name | bank-v1 |
-| Base path | /bank/v1 |
+|       Property        |    Value    |
+| :-------------------: | :---------: |
+|         Name          |   bank-v1   |
+|       Base path       |  /bank/v1   |
 | Target (Existing API) | Backend URL |
 
-### 📥 Download Required Files  
+### 📥 Download Required Files
 
-- **get-address-for-location**: [Download Here](https://drive.google.com/uc?export=download&id=1y8m9GkhU2mTvtC18ptQY7obVGOozBXnJ)  
+- **get-address-for-location**: [Download Here](https://drive.google.com/uc?export=download&id=1y8m9GkhU2mTvtC18ptQY7obVGOozBXnJ)
 - **bank-v1**: [Download Here](https://drive.google.com/uc?export=download&id=1OZFNYAabSVIWHaaHD6JDUPz-TX0QTTSg)
 
-### Congratulations 🎉 for Completing the Lab!  
+### Congratulations 🎉 for Completing the Lab!
 
-##### *You Have Successfully Demonstrated Your Skills and Perseverance.*  
+##### _You Have Successfully Demonstrated Your Skills and Perseverance._
 
-#### *Outstanding Effort—Well Done!*  
+#### _Outstanding Effort—Well Done!_
 
-#### Stay connected and updated—join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) today!  
+#### Stay connected and updated—join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) today!
 
-# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)  
+# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

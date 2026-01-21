@@ -5,19 +5,19 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Reduce%20Costs%20for%20the%20Managed%20Service%20for%20Prometheus/gsp1027.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Reduce%20Costs%20for%20the%20Managed%20Service%20for%20Prometheus/gsp1027.sh
 
 sudo chmod +x gsp1027.sh
 
 ./gsp1027.sh
 ```
 
-### Congratulations on Completing the Lab! 🎉  
+### Congratulations on Completing the Lab! 🎉
 
-##### *You’ve mastered this challenge with skill and dedication.*  
+##### _You’ve mastered this challenge with skill and dedication._
 
-#### *The future is bright—keep pushing forward! 🌟*  
+#### _The future is bright—keep pushing forward! 🌟_
 
-#### Don't forget to join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats).  
+#### Don't forget to join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats).
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

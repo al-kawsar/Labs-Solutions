@@ -9,8 +9,9 @@ export CONTAINER=
 export FILE_1=
 export FILE_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Detect%20Manufacturing%20Defects%20using%20Visual%20Inspection%20AI%20Challenge%20Lab/gsp366.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Detect%20Manufacturing%20Defects%20using%20Visual%20Inspection%20AI%20Challenge%20Lab/gsp366.sh
 
 sudo chmod +x gsp366.sh
 
@@ -19,9 +20,9 @@ sudo chmod +x gsp366.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

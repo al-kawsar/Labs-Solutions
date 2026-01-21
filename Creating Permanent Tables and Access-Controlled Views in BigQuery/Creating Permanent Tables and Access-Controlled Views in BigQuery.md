@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20Permanent%20Tables%20and%20Access-Controlled%20Views%20in%20BigQuery/gsp410.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Creating%20Permanent%20Tables%20and%20Access-Controlled%20Views%20in%20BigQuery/gsp410.sh
 
 sudo chmod +x gsp410.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x gsp410.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

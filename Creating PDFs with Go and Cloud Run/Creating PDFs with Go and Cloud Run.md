@@ -7,8 +7,9 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/gsp762.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/gsp762.sh
 
 sudo chmod +x gsp762.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp762.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -8,8 +8,9 @@
 export PROJECT_ID_2=
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Exploring%20Dataset%20Metadata%20Between%20Projects%20with%20Data%20Catalog/gsp789.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Exploring%20Dataset%20Metadata%20Between%20Projects%20with%20Data%20Catalog/gsp789.sh
 
 sudo chmod +x gsp789.sh
 
@@ -77,12 +78,11 @@ UNION ALL
 SELECT * FROM male;
 ```
 
-
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

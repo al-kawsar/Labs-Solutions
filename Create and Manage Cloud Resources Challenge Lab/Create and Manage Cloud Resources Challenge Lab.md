@@ -5,6 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ### Assign Veriables
+
 ```
 export INSTANCE=
 export PORT_NO=
@@ -12,20 +13,22 @@ export FIREWALL=
 export REGION=
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Resources%20Challenge%20Lab/gsp313.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Resources%20Challenge%20Lab/gsp313.sh
 
 sudo chmod +x gsp313.sh
 
 ./gsp313.sh
 ```
-* *Note: You may need to wait for `5 to 7` `minutes` to get the score for this task.*
+
+- _Note: You may need to wait for `5 to 7` `minutes` to get the score for this task._
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

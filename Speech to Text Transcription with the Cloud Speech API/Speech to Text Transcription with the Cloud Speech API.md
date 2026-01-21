@@ -5,19 +5,19 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-1.sh
 
 sudo chmod +x gsp048-1.sh
 
 ./gsp048-1.sh
 ```
 
-* `NOTE:`  Now Check The Score Upto `Task 3` then Process Next.
+- `NOTE:` Now Check The Score Upto `Task 3` then Process Next.
 
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Speech%20to%20Text%20Transcription%20with%20the%20Cloud%20Speech%20API/gsp048-2.sh
 
 sudo chmod +x gsp048-2.sh
 
@@ -26,9 +26,9 @@ sudo chmod +x gsp048-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

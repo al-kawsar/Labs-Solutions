@@ -5,7 +5,7 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20an%20Internal%20Load%20Balancer/gsp216.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20an%20Internal%20Load%20Balancer/gsp216.sh
 
 sudo chmod +x *.sh
 
@@ -14,12 +14,13 @@ sudo chmod +x *.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *Your hard work and commitment paid off. Keep pushing forward!*
+##### _Your hard work and commitment paid off. Keep pushing forward!_
 
-#### *Well done!*
+#### _Well done!_
 
-#### 🌐 **Stay Connected with the Community:**  
-- 📢 Follow the [Telegram Channel](https://t.me/cloudwalabanda)  
+#### 🌐 **Stay Connected with the Community:**
+
+- 📢 Follow the [Telegram Channel](https://t.me/cloudwalabanda)
 - 💬 Participate in the [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

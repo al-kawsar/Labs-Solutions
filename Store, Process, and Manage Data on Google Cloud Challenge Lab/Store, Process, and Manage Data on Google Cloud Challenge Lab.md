@@ -5,14 +5,16 @@
 ### Run the following Commands in CloudShell
 
 ### Assign Veriables
+
 ```
 export BUCKET=
 export REGION=
 export TOPIC=
 export FUNCTION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20Challenge%20Lab/arc100.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Store%2C%20Process%2C%20and%20Manage%20Data%20on%20Google%20Cloud%20Challenge%20Lab/arc100.sh
 
 sudo chmod +x arc100.sh
 
@@ -21,9 +23,9 @@ sudo chmod +x arc100.sh
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

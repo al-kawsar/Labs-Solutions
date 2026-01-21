@@ -7,24 +7,26 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Connect%20an%20App%20to%20a%20Cloud%20SQL%20for%20PostgreSQL%20Instance/gsp919.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Connect%20an%20App%20to%20a%20Cloud%20SQL%20for%20PostgreSQL%20Instance/gsp919.sh
 
 sudo chmod +x gsp919.sh
 
 ./gsp919.sh
 ```
 
-* When prompted, paste the following password:
+- When prompted, paste the following password:
+
 ```
 supersecret!
 ```
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

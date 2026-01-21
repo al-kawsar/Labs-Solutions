@@ -3,11 +3,13 @@
 ## Solution [here](https://youtu.be/M6CKigU4BBM)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE=
 ```
+
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/cloudwalabanda.sh
+curl -LO https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/cloudwalabanda.sh
 
 sudo chmod +x cloudwalabanda.sh
 
@@ -16,9 +18,9 @@ sudo chmod +x cloudwalabanda.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

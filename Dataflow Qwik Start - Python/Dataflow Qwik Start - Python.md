@@ -7,21 +7,22 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Dataflow%20Qwik%20Start%20-%20Python/gsp207.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Dataflow%20Qwik%20Start%20-%20Python/gsp207.sh
 
 sudo chmod +x gsp207.sh
 
 ./gsp207.sh
 ```
 
-* Go to `Dataflow Jobs` from [here](https://console.cloud.google.com/dataflow/jobs?)
+- Go to `Dataflow Jobs` from [here](https://console.cloud.google.com/dataflow/jobs?)
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -5,19 +5,19 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Challenge%20Lab/gsp382-1.sh
+curl -LO https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Challenge%20Lab/gsp382-1.sh
 
 sudo chmod +x gsp382-1.sh
 
 ./gsp382-1.sh
 ```
 
-* **Reserve Static External IP** address name **static-ip**
+- **Reserve Static External IP** address name **static-ip**
 
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Challenge%20Lab/gsp382-2.sh
+curl -LO https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Challenge%20Lab/gsp382-2.sh
 
 sudo chmod +x gsp382-2.sh
 
@@ -26,9 +26,9 @@ sudo chmod +x gsp382-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

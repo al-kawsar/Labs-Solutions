@@ -2,12 +2,12 @@
 
 ## Solution [here](https://youtu.be/4slr9p3D6DA)
 
-* Go to `Bitnami package for NGINX Open Source` from [here](https://console.cloud.google.com/marketplace/product/bitnami-launchpad/nginxstack?)
+- Go to `Bitnami package for NGINX Open Source` from [here](https://console.cloud.google.com/marketplace/product/bitnami-launchpad/nginxstack?)
 
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Provision%20Services%20with%20Google%20Cloud%20Marketplace/gsp003.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Provision%20Services%20with%20Google%20Cloud%20Marketplace/gsp003.sh
 
 sudo chmod +x gsp003.sh
 
@@ -16,9 +16,9 @@ sudo chmod +x gsp003.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

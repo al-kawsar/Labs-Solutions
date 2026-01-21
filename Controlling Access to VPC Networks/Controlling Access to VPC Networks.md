@@ -7,8 +7,9 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Controlling%20Access%20to%20VPC%20Networks/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Controlling%20Access%20to%20VPC%20Networks/shell.sh
 
 sudo chmod +x shell.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x shell.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -3,18 +3,20 @@
 ## Solution [here](https://youtu.be/v1qw2pymwL0)
 
 ### Run the following Commands in CloudShell
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Optimizing%20your%20BigQuery%20Queries%20for%20Performance%202.5/BigQuery.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Optimizing%20your%20BigQuery%20Queries%20for%20Performance%202.5/BigQuery.sh
 
 sudo chmod +x BigQuery.sh
 
 ./BigQuery.sh
 ```
+
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

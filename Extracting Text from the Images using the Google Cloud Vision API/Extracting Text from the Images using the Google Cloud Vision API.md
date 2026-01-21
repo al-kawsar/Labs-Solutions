@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Extracting%20Text%20from%20the%20Images%20using%20the%20Google%20Cloud%20Vision%20API/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Extracting%20Text%20from%20the%20Images%20using%20the%20Google%20Cloud%20Vision%20API/shell.sh
 
 sudo chmod +x shell.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x shell.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

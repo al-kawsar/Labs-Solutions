@@ -2,27 +2,26 @@
 
 ## 💡 **Solution [here](https://youtu.be/NoQ1WjtdH1w)**
 
-### 🚀 **Execute the following commands in Cloud Shell:**  
+### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```
 export ZONE_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/gsp911.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Configuring%20Network%20Connectivity%20Center%20as%20a%20Transit%20Hub/gsp911.sh
 
 sudo chmod +x gsp911.sh
 
 ./gsp911.sh
 ```
 
+### 🎉 **Congratulations on completing the lab!**
 
+##### _Your hard work and determination are commendable!_
 
-### 🎉 **Congratulations on completing the lab!**  
+#### _Keep striving for success—new heights await you! 🚀_
 
-##### *Your hard work and determination are commendable!*  
-
-#### *Keep striving for success—new heights await you! 🚀*
-
-#### **Stay connected and join us:** [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats) 
+#### **Stay connected and join us:** [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

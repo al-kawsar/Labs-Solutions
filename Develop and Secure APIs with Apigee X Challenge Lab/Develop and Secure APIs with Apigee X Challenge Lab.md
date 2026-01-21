@@ -5,36 +5,36 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X%20Challenge%20Lab/gsp363.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Develop%20and%20Secure%20APIs%20with%20Apigee%20X%20Challenge%20Lab/gsp363.sh
 
 sudo chmod +x gsp363.sh
 
 ./gsp363.sh
 ```
 
-### 🛠️ **Proxy Configuration Details:**  
+### 🛠️ **Proxy Configuration Details:**
 
-| **Property**   | **Value**     |  
-| :------------: | :------------: |  
-| Name           | translate-v1   |  
-| Base Path      | /translate/v1  |
+| **Property** |   **Value**   |
+| :----------: | :-----------: |
+|     Name     | translate-v1  |
+|  Base Path   | /translate/v1 |
 
-### 📥 **Download Required Files:**  
+### 📥 **Download Required Files:**
 
 - **translate-v1**: [⬇️ Download Here](https://drive.google.com/uc?export=download&id=1IxJMjqAJ-FVKWOdg2HnJ79wY7BBlbjbJ)
 
-### 🛠️ **App Configuration Details:**  
+### 🛠️ **App Configuration Details:**
 
-| **Property**   | **Value**           |  
-| :------------: | :-----------------: |  
-| Name           | translate-app       |
+| **Property** |   **Value**   |
+| :----------: | :-----------: |
+|     Name     | translate-app |
 
-### Congratulations 🎉 for Completing the Lab!  
+### Congratulations 🎉 for Completing the Lab!
 
-##### *You've successfully conquered the lab! Your dedication and skills truly shine.*  
+##### _You've successfully conquered the lab! Your dedication and skills truly shine._
 
-#### *Stay determined—amazing opportunities are just ahead! 🚀*  
+#### _Stay determined—amazing opportunities are just ahead! 🚀_
 
-#### Don't miss out on joining the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats)  
+#### Don't miss out on joining the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats)
 
-# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)  
+# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

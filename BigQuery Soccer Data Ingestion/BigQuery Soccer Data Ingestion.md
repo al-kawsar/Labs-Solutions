@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/BigQuery%20Soccer%20Data%20Ingestion/gsp848.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/BigQuery%20Soccer%20Data%20Ingestion/gsp848.sh
 
 sudo chmod +x gsp848.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x gsp848.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

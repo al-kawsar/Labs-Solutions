@@ -23,45 +23,57 @@ export TIMESTAMP=$(date --rfc-3339=seconds)
 gcloud sql connect postgres-orders --user=postgres --quiet
 ```
 
-* enter the below password when prompted. A psql session will start in Cloud Shell.
+- enter the below password when prompted. A psql session will start in Cloud Shell.
 
 ```
 supersecret!
 ```
-* In psql, change to the orders database:
+
+- In psql, change to the orders database:
+
 ```
 \c orders
 ```
-* When prompted, enter the password again.
+
+- When prompted, enter the password again.
+
 ```
 supersecret!
 ```
+
 ```
 SELECT COUNT(*) FROM distribution_centers;
 ```
+
 ```
 INSERT INTO distribution_centers VALUES(-80.1918,25.7617,'Miami FL',11);
 SELECT COUNT(*) FROM distribution_centers;
 ```
+
 ```
 \q
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Configure%20Replication%20and%20Enable%20Point-in-Time-Recovery%20for%20Cloud%20SQL%20for%20PostgreSQL/gsp922.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Configure%20Replication%20and%20Enable%20Point-in-Time-Recovery%20for%20Cloud%20SQL%20for%20PostgreSQL/gsp922.sh
 
 sudo chmod +x *.sh
 
 ./*.sh
 ```
+
 ```
 supersecret!
 ```
+
 ```
 \c orders
 ```
+
 ```
 supersecret!
 ```
+
 ```
 SELECT COUNT(*) FROM distribution_centers;
 ```
@@ -72,6 +84,7 @@ Your hard work and determination paid off! 💻
 You've successfully completed the lab. **Way to go!** 🚀
 
 ### 💬 Stay Connected with Our Community!
+
 👉 Join the conversation and never miss an update:📢 [Telegram Channel](https://t.me/cloudwalabanda)
 👥 [Discussion Group](https://t.me/cloudwalabandachats)
 

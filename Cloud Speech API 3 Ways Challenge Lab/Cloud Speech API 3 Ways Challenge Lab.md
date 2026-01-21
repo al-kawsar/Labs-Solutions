@@ -9,7 +9,7 @@ export ZONE=$(gcloud compute instances list lab-vm --format 'csv[no-heading](zon
 gcloud compute ssh lab-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
 ```
 
-* Go to `Credentials` from [here](https://console.cloud.google.com/apis/credentials)
+- Go to `Credentials` from [here](https://console.cloud.google.com/apis/credentials)
 
 ```
 export API_KEY=
@@ -21,8 +21,9 @@ export task_4_file=""
 export task_5_sentence=""
 export task_5_file=""
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/arc132.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Cloud%20Speech%20API%203%20Ways%20Challenge%20Lab/arc132.sh
 
 sudo chmod +x arc132.sh
 
@@ -31,9 +32,9 @@ sudo chmod +x arc132.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

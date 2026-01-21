@@ -5,24 +5,25 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Manage%20AlloyDB%20Instances%20Challenge%20Lab/gsp395.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20and%20Manage%20AlloyDB%20Instances%20Challenge%20Lab/gsp395.sh
 
 sudo chmod +x gsp395.sh
 
 ./gsp395.sh
 ```
+
 ```
 export ALLOYDB=
 ```
 
-* Go to `AlloyDB Clusters` from [here](https://console.cloud.google.com/alloydb/clusters?)
+- Go to `AlloyDB Clusters` from [here](https://console.cloud.google.com/alloydb/clusters?)
 
 ```
 echo $ALLOYDB  > alloydbip.txt
 psql -h $ALLOYDB -U postgres
 ```
 
-* Paste The Following Password
+- Paste The Following Password
 
 ```
 Change3Me
@@ -35,6 +36,7 @@ CREATE TABLE regions (
 ) ;
 ALTER TABLE regions ADD PRIMARY KEY (region_id);
 ```
+
 ```
 CREATE TABLE countries (
     country_id char(2) NOT NULL,
@@ -43,6 +45,7 @@ CREATE TABLE countries (
 ) ;
 ALTER TABLE countries ADD PRIMARY KEY (country_id);
 ```
+
 ```
 CREATE TABLE departments (
     department_id smallint NOT NULL,
@@ -52,12 +55,14 @@ CREATE TABLE departments (
 ) ;
 ALTER TABLE departments ADD PRIMARY KEY (department_id);
 ```
+
 ```
 INSERT INTO regions VALUES ( 1, 'Europe' );
 INSERT INTO regions VALUES ( 2, 'Americas' );
 INSERT INTO regions VALUES ( 3, 'Asia' );
 INSERT INTO regions VALUES ( 4, 'Middle East and Africa' );
 ```
+
 ```
 INSERT INTO countries VALUES ('IT', 'Italy', 1 );
 INSERT INTO countries VALUES ('JP', 'Japan', 3  );
@@ -69,6 +74,7 @@ INSERT INTO countries VALUES ('AU', 'Australia', 3  );
 INSERT INTO countries VALUES ('ZW', 'Zimbabwe', 4  );
 INSERT INTO countries VALUES ('SG', 'Singapore', 3 );
 ```
+
 ```
 INSERT INTO departments VALUES (10, 'Administration', 200, 1700 );
 INSERT INTO departments VALUES (20, 'Marketing', 201, 1800);
@@ -80,9 +86,9 @@ INSERT INTO departments VALUES (60, 'IT', 103, 1400);
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

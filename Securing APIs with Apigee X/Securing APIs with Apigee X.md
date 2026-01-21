@@ -5,39 +5,37 @@
 ### 🚀 **Commands to Execute in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Securing%20APIs%20with%20Apigee%20X/gsp844.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Securing%20APIs%20with%20Apigee%20X/gsp844.sh
 
 sudo chmod +x gsp844.sh
 
 ./gsp844.sh
 ```
 
-### 🛠️ **Proxy Configuration Details:**  
+### 🛠️ **Proxy Configuration Details:**
 
-|**Property**| **Value**       |  
-|:------------:|:-----------------:|  
-| Name       | bank-v1         |  
-| Base Path  | /bank/v1        |  
-| Target (API) | Backend URL   |  
+| **Property** |  **Value**  |
+| :----------: | :---------: |
+|     Name     |   bank-v1   |
+|  Base Path   |  /bank/v1   |
+| Target (API) | Backend URL |
 
-
-### 📥 **Download Required Files:**  
+### 📥 **Download Required Files:**
 
 - **bank-v1**: [⬇️ Download Here](https://drive.google.com/uc?export=download&id=1nciWY-FuXm9QrkoZy3vllHPCe5uGU7zS)
 
+### 🛠️ **Application Configuration Details:**
 
-### 🛠️ **Application Configuration Details:**  
-
-|**Property**  | **Value**               |  
-|:------------:|:-----------------------:|  
-| Name         | readonly-app            |  
-| Developer    | select joe@example.com  |
+| **Property** |       **Value**        |
+| :----------: | :--------------------: |
+|     Name     |      readonly-app      |
+|  Developer   | select joe@example.com |
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You've successfully conquered the lab! Your dedication and skills truly shine.*
+##### _You've successfully conquered the lab! Your dedication and skills truly shine._
 
-#### *Keep pushing forward—great things await! 🚀*
+#### _Keep pushing forward—great things await! 🚀_
 
 #### Don't miss out on joining the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

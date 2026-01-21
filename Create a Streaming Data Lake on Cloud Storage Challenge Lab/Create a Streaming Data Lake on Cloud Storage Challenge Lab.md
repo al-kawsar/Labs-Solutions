@@ -8,8 +8,9 @@
 export TOPIC=
 export MESSAGE=""
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Create%20a%20Streaming%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/arc110.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Create%20a%20Streaming%20Data%20Lake%20on%20Cloud%20Storage%20Challenge%20Lab/arc110.sh
 
 sudo chmod +x arc110.sh
 
@@ -18,9 +19,9 @@ sudo chmod +x arc110.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

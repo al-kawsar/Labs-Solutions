@@ -9,20 +9,20 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20Networks%20via%20gcloud/gsp630.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Configuring%20Networks%20via%20gcloud/gsp630.sh
 
 sudo chmod +x gsp630.sh
 
 ./gsp630.sh
 ```
 
-
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

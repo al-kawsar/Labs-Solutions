@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%20Challenge%20Lab/arc125.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Use%20APIs%20to%20Work%20with%20Cloud%20Storage%20Challenge%20Lab/arc125.sh
 
 sudo chmod +x arc125.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x arc125.sh
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

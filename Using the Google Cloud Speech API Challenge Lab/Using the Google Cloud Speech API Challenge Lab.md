@@ -15,6 +15,7 @@
 ### Run the following Commands in CloudShell
 
 ### Assign Veriables
+
 ```
 export API_KEY=
 export REQUEST1=
@@ -22,8 +23,9 @@ export RESPONSE1=
 export REQUEST2=
 export RESPONSE2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Using%20the%20Google%20Cloud%20Speech%20API%20Challenge%20Lab/arc131.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Using%20the%20Google%20Cloud%20Speech%20API%20Challenge%20Lab/arc131.sh
 
 sudo chmod +x arc131.sh
 
@@ -32,9 +34,9 @@ sudo chmod +x arc131.sh
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

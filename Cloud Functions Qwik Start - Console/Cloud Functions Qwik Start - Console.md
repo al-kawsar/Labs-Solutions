@@ -3,11 +3,13 @@
 ## Solution [here](https://youtu.be/eJEuMEsthXQ)
 
 ### Run the following Commands in CloudShell
+
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Functions%20Qwik%20Start%20-%20Console/gsp081.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Cloud%20Functions%20Qwik%20Start%20-%20Console/gsp081.sh
 
 sudo chmod +x gsp081.sh
 
@@ -16,9 +18,9 @@ sudo chmod +x gsp081.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

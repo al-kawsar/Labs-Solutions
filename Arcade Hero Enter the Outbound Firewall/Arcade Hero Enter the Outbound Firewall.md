@@ -7,8 +7,9 @@
 ```
 export RULE_NAME=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Outbound%20Firewall/arc141.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Arcade%20Hero%20Enter%20the%20Outbound%20Firewall/arc141.sh
 
 sudo chmod +x arc141.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x arc141.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

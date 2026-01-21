@@ -3,11 +3,13 @@
 ## Solution [here](https://youtu.be/g5K47lEpK4M)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Set%20Up%20Network%20and%20HTTP%20Load%20Balancers/gsp007.sh
 
 sudo chmod +x gsp007.sh
 
@@ -16,9 +18,9 @@ sudo chmod +x gsp007.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

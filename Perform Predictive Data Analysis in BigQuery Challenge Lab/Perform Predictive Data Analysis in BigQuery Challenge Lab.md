@@ -15,21 +15,22 @@ export FUNC_1=
 export FUNC_2=
 export MODEL=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Perform%20Predictive%20Data%20Analysis%20in%20BigQuery%20Challenge%20Lab/gsp374.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Perform%20Predictive%20Data%20Analysis%20in%20BigQuery%20Challenge%20Lab/gsp374.sh
 
 sudo chmod +x gsp374.sh
 
 ./gsp374.sh
 ```
 
-* Go to `BigQuery` from [here](https://console.cloud.google.com/bigquery?)
+- Go to `BigQuery` from [here](https://console.cloud.google.com/bigquery?)
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

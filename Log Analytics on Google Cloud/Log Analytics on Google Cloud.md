@@ -5,25 +5,30 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Log%20Analytics%20on%20Google%20Cloud/gsp1088.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Log%20Analytics%20on%20Google%20Cloud/gsp1088.sh
 
 sudo chmod +x gsp1088.sh
 
 ./gsp1088.sh
 ```
-* For the bucket name paste the following:
+
+- For the bucket name paste the following:
+
 ```
 day2ops-log
 ```
-* For the dataset name paste the following:
+
+- For the dataset name paste the following:
+
 ```
 day2ops_log
 ```
+
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

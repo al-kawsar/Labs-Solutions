@@ -7,17 +7,18 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Assessing%20Data%20Quality%20with%20Dataplex/gsp1158.sh
 
 sudo chmod +x gsp1158.sh
 
 ./gsp1158.sh
 ```
 
-* Go to `BigQuery` from [here](https://console.cloud.google.com/bigquery?)
+- Go to `BigQuery` from [here](https://console.cloud.google.com/bigquery?)
 
-* In the SQL Editor, click on `Compose a new query`. Paste the following query, and then click `Run`: ( REPLACE PROJECT_ID WITH YOUR PROJECT )
+- In the SQL Editor, click on `Compose a new query`. Paste the following query, and then click `Run`: ( REPLACE PROJECT_ID WITH YOUR PROJECT )
 
 ```
   SELECT * FROM `PROJECT_ID.customers.contact_info`
@@ -25,14 +26,13 @@ sudo chmod +x gsp1158.sh
   LIMIT 50
 ```
 
-* Go to `Create task` from [here](https://console.cloud.google.com/dataplex/process/create-task/data-quality?)
-
+- Go to `Create task` from [here](https://console.cloud.google.com/dataplex/process/create-task/data-quality?)
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

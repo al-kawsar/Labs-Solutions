@@ -7,23 +7,24 @@
 ```
 export USER_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Build%20a%20Data%20Mesh%20with%20Dataplex%20Challenge%20Lab/gsp514.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Build%20a%20Data%20Mesh%20with%20Dataplex%20Challenge%20Lab/gsp514.sh
 
 sudo chmod +x gsp514.sh
 
 ./gsp514.sh
 ```
 
-* For the display name enter, **Customer Orders Data Quality Job**
+- For the display name enter, **Customer Orders Data Quality Job**
 
-* For BigQuery table type **results**
+- For BigQuery table type **results**
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

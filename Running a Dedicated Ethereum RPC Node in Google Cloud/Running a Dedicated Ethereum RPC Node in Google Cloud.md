@@ -1,11 +1,11 @@
 # Running a Dedicated Ethereum RPC Node in Google Cloud || [GSP1116](https://www.cloudskillsboost.google/focuses/61475?parent=catalog) ||
 
-## 💡 **Solution [here](https://youtu.be/AfdqhJdgZI0)** 
+## 💡 **Solution [here](https://youtu.be/AfdqhJdgZI0)**
 
-####  Download and Run the Initial Script 
+#### Download and Run the Initial Script
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Running%20a%20Dedicated%20Ethereum%20RPC%20Node%20in%20Google%20Cloud/gsp1116-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Running%20a%20Dedicated%20Ethereum%20RPC%20Node%20in%20Google%20Cloud/gsp1116-1.sh
 
 sudo chmod +x gsp1116-1.sh
 
@@ -15,20 +15,24 @@ sudo chmod +x gsp1116-1.sh
 ```
 sudo su ethereum
 ```
+
 ```
 bash
 ```
+
 ```
 cd ~
 sudo apt update -y
 sudo apt-get update -y
 sudo apt install -y dstat jq
 ```
+
 ```
 curl -sSO https://dl.google.com/cloudagents/add-google-cloud-ops-agent-repo.sh
 sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 rm add-google-cloud-ops-agent-repo.sh
 ```
+
 ```
 mkdir /mnt/disks/chaindata-disk/ethereum/
 mkdir /mnt/disks/chaindata-disk/ethereum/geth
@@ -62,6 +66,7 @@ mkdir ~/.secret
 openssl rand -hex 32 > ~/.secret/jwtsecret
 chmod 440 ~/.secret/jwtsecret
 ```
+
 ```
 export CHAIN=eth
 export NETWORK=mainnet
@@ -92,6 +97,7 @@ nohup geth --datadir "/mnt/disks/chaindata-disk/ethereum/geth/chaindata" \
 --nat extip:$EXT_IP_ADDRESS \
 &> "/mnt/disks/chaindata-disk/ethereum/geth/logs/geth.log" &
 ```
+
 ```
 sudo chmod 666 /etc/google-cloud-ops-agent/config.yaml
 
@@ -132,6 +138,7 @@ sudo systemctl start google-cloud-ops-agent
 
 sudo journalctl -xe | grep "google_cloud_ops_agent_engine"
 ```
+
 ```
 sudo cat << EOF >> /etc/google-cloud-ops-agent/config.yaml
 metrics:
@@ -163,24 +170,26 @@ sudo systemctl start google-cloud-ops-agent
 
 sudo journalctl -xe | grep "google_cloud_ops_agent_engine"
 ```
+
 ```
 exit
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Running%20a%20Dedicated%20Ethereum%20RPC%20Node%20in%20Google%20Cloud/gsp1116-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Running%20a%20Dedicated%20Ethereum%20RPC%20Node%20in%20Google%20Cloud/gsp1116-2.sh
 
 sudo chmod +x gsp1116-2.sh
 
 ./gsp1116-2.sh
 ```
 
-### 🎉 **Congratulations on Completing the Lab!**  
+### 🎉 **Congratulations on Completing the Lab!**
 
-##### *Your expertise and effort are shining through—keep up the amazing work!*  
+##### _Your expertise and effort are shining through—keep up the amazing work!_
 
-#### 🔗 **Stay Connected for More Labs and Resources:**  
-- 🌐 [Telegram Channel](https://t.me/cloudwalabanda)  
+#### 🔗 **Stay Connected for More Labs and Resources:**
+
+- 🌐 [Telegram Channel](https://t.me/cloudwalabanda)
 - 🤝 [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

@@ -1,51 +1,51 @@
 # Implement DevOps Workflows in Google Cloud: Challenge Lab || [GSP330](https://www.cloudskillsboost.google/focuses/13287?parent=catalog) ||
 
-## 💡 **Solution** [here](https://youtu.be/4DO6MQ4zF3o)  
+## 💡 **Solution** [here](https://youtu.be/4DO6MQ4zF3o)
 
-### 📋 **Prerequisites**  
+### 📋 **Prerequisites**
 
-* If you do not already have a **GitHub** account, you will need to create a [GitHub account](https://github.com/signup)
+- If you do not already have a **GitHub** account, you will need to create a [GitHub account](https://github.com/signup)
 
-### 🔐 **Recommendations**  
+### 🔐 **Recommendations**
 
-* Use an existing **GitHub** account if you have one. **GitHub** is more likely to block a new account as spam.
+- Use an existing **GitHub** account if you have one. **GitHub** is more likely to block a new account as spam.
 
-* Configure [two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) on your **GitHub account** to reduce the chances of your account being marked as **spam**.
+- Configure [two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) on your **GitHub account** to reduce the chances of your account being marked as **spam**.
 
-## 🖥️ **Steps to Execute in Cloud Shell**  
+## 🖥️ **Steps to Execute in Cloud Shell**
 
 ### Step 1: Download and Run Script Part 1
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-1.sh
 
 sudo chmod +x gsp330-1.sh
 
 ./gsp330-1.sh
 ```
 
-### 🛠️ **Cloud Build Trigger Configuration**  
+### 🛠️ **Cloud Build Trigger Configuration**
 
-#### **Production Deployment Trigger:** 
+#### **Production Deployment Trigger:**
 
-| **Property**                 | **Value**        |  
-| :--------------------------: | :--------------: |  
-| **Name**                     | sample-app-prod-deploy |  
-| **Branch Pattern**           | ^master$       |  
-| **Build Configuration File** | cloudbuild.yaml |  
+|         **Property**         |       **Value**        |
+| :--------------------------: | :--------------------: |
+|           **Name**           | sample-app-prod-deploy |
+|      **Branch Pattern**      |        ^master$        |
+| **Build Configuration File** |    cloudbuild.yaml     |
 
-#### **Development Deployment Trigger:** 
+#### **Development Deployment Trigger:**
 
-| **Property**                 | **Value**        |  
-| :--------------------------: | :--------------: |  
-| **Name**                     | sample-app-dev-deploy |  
-| **Branch Pattern**           | ^dev$          |  
-| **Build Configuration File** | cloudbuild-dev.yaml |  
+|         **Property**         |       **Value**       |
+| :--------------------------: | :-------------------: |
+|           **Name**           | sample-app-dev-deploy |
+|      **Branch Pattern**      |         ^dev$         |
+| **Build Configuration File** |  cloudbuild-dev.yaml  |
 
 ### Step 2: Download and Run Script Part 2
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Implement%20DevOps%20Workflows%20in%20Google%20Cloud%20Challenge%20Lab/gsp330-2.sh
 
 sudo chmod +x gsp330-2.sh
 
@@ -54,12 +54,13 @@ sudo chmod +x gsp330-2.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *Your dedication and hard work are truly commendable—great job!*
+##### _Your dedication and hard work are truly commendable—great job!_
 
-#### *Keep honing your skills—this is just the beginning of your success!*
+#### _Keep honing your skills—this is just the beginning of your success!_
 
-💬 **Stay Connected with the Community:**  
-- Join the **[Telegram Channel](https://t.me/cloudwalabanda)** 📱  
+💬 **Stay Connected with the Community:**
+
+- Join the **[Telegram Channel](https://t.me/cloudwalabanda)** 📱
 - Participate in the **[Discussion Group](https://t.me/cloudwalabandachats)** 💬
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

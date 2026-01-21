@@ -3,8 +3,9 @@
 ## Solution [here](https://youtu.be/pRQPv0mvqX8)
 
 ### Run the following Commands in CloudShell
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20JSON%2C%20Arrays%2C%20and%20Structs%20in%20BigQuery/gsp416.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Working%20with%20JSON%2C%20Arrays%2C%20and%20Structs%20in%20BigQuery/gsp416.sh
 
 sudo chmod +x gsp416.sh
 
@@ -13,9 +14,9 @@ sudo chmod +x gsp416.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

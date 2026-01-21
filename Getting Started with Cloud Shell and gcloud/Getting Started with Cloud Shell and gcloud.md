@@ -3,11 +3,13 @@
 ## Solution [here](https://youtu.be/ay9korKIWzk)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20Shell%20and%20gcloud/gsp002.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Getting%20Started%20with%20Cloud%20Shell%20and%20gcloud/gsp002.sh
 
 sudo chmod +x gsp002.sh
 
@@ -16,9 +18,9 @@ sudo chmod +x gsp002.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

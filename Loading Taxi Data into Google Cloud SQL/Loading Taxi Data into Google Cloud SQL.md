@@ -5,20 +5,20 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Loading%20Taxi%20Data%20into%20Google%20Cloud%20SQL/shell.sh
 
 sudo chmod +x shell.sh
 
 ./shell.sh
 ```
 
-* When prompted for the password type or paste the following and press Enter.
+- When prompted for the password type or paste the following and press Enter.
 
 ```
 Passw0rd
 ```
 
-* Now paste the following content into the command line to create the schema for the trips table:
+- Now paste the following content into the command line to create the schema for the trips table:
 
 ```
 create database if not exists bts;
@@ -27,7 +27,7 @@ use bts;
 drop table if exists trips;
 
 create table trips (
-  vendor_id VARCHAR(16),    
+  vendor_id VARCHAR(16),
   pickup_datetime DATETIME,
   dropoff_datetime DATETIME,
   passenger_count INT,
@@ -49,9 +49,9 @@ create table trips (
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

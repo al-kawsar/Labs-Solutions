@@ -5,30 +5,30 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Resource%20Monitoring/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Resource%20Monitoring/shell.sh
 
 sudo chmod +x shell.sh
 
 ./shell.sh
 ```
 
-* Go to **Dashboards Overview** from [here](https://console.cloud.google.com/monitoring/dashboards?)
+- Go to **Dashboards Overview** from [here](https://console.cloud.google.com/monitoring/dashboards?)
 
-* Type **CPU utilization** in Metric field dropdown
+- Type **CPU utilization** in Metric field dropdown
 
-* Go to **Create group** from [here](https://console.cloud.google.com/monitoring/groups/create?)
+- Go to **Create group** from [here](https://console.cloud.google.com/monitoring/groups/create?)
 
-* Enter a name for the group. For example: **VM instances**
+- Enter a name for the group. For example: **VM instances**
 
-* In the Criteria section, type **nginx** in the Value field below Contains.
+- In the Criteria section, type **nginx** in the Value field below Contains.
 
-* Go to **Create Uptime Check** from [here](https://console.cloud.google.com/monitoring/uptime/create?)
+- Go to **Create Uptime Check** from [here](https://console.cloud.google.com/monitoring/uptime/create?)
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

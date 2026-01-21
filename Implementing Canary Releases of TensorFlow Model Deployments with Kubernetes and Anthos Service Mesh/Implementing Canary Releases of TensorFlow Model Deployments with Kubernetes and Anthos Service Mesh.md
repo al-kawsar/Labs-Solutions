@@ -7,8 +7,9 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Implementing%20Canary%20Releases%20of%20TensorFlow%20Model%20Deployments%20with%20Kubernetes%20and%20Anthos%20Service%20Mesh/gsp778.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Implementing%20Canary%20Releases%20of%20TensorFlow%20Model%20Deployments%20with%20Kubernetes%20and%20Anthos%20Service%20Mesh/gsp778.sh
 
 sudo chmod +x gsp778.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp778.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

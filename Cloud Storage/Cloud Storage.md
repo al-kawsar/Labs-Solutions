@@ -1,4 +1,4 @@
-#  [Cloud Storage](https://www.cloudskillsboost.google/focuses/19083?parent=catalog)
+# [Cloud Storage](https://www.cloudskillsboost.google/focuses/19083?parent=catalog)
 
 ## Solution [here](https://youtu.be/jFRATMptdyI)
 
@@ -7,8 +7,9 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Storage/project-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Cloud%20Storage/project-1.sh
 
 sudo chmod +x project-1.sh
 
@@ -20,8 +21,9 @@ sudo chmod +x project-1.sh
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Cloud%20Storage/project-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Cloud%20Storage/project-2.sh
 
 sudo chmod +x project-2.sh
 
@@ -30,9 +32,9 @@ sudo chmod +x project-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

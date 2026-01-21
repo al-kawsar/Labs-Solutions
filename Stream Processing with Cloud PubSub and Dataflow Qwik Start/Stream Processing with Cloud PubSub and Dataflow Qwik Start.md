@@ -7,8 +7,9 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Stream%20Processing%20with%20Cloud%20PubSub%20and%20Dataflow%20Qwik%20Start/gsp903.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Stream%20Processing%20with%20Cloud%20PubSub%20and%20Dataflow%20Qwik%20Start/gsp903.sh
 
 sudo chmod +x gsp903.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp903.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -5,7 +5,7 @@
 ### Download and Execute the Script
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Service%20Monitoring/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Service%20Monitoring/shell.sh
 
 sudo chmod +x *.sh
 
@@ -14,12 +14,13 @@ sudo chmod +x *.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You’ve showcased remarkable skills and determination. Keep up the great work!*
+##### _You’ve showcased remarkable skills and determination. Keep up the great work!_
 
-#### *Well done!*
+#### _Well done!_
 
-🌟 **Join the Community for More Resources:**  
-- 💬 Join the [Telegram Channel](https://t.me/cloudwalabanda)  
+🌟 **Join the Community for More Resources:**
+
+- 💬 Join the [Telegram Channel](https://t.me/cloudwalabanda)
 - 🗣️ Engage in the [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

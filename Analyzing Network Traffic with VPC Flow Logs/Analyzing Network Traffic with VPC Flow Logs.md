@@ -7,15 +7,16 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Analyzing%20Network%20Traffic%20with%20VPC%20Flow%20Logs/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Analyzing%20Network%20Traffic%20with%20VPC%20Flow%20Logs/shell.sh
 
 sudo chmod +x shell.sh
 
 ./shell.sh
 ```
 
-* For the Sink name, type **bq_vpcflows**
+- For the Sink name, type **bq_vpcflows**
 
 ```
 export MY_SERVER=$(gcloud compute instances describe web-server --zone "$ZONE" --format='get(networkInterfaces[0].accessConfigs[0].natIP)')
@@ -23,7 +24,7 @@ export MY_SERVER=$(gcloud compute instances describe web-server --zone "$ZONE" -
 for ((i=1;i<=50;i++)); do curl $MY_SERVER; done
 ```
 
-* Add the following to the **BigQuery Editor** and **REPLACE_YOUR_TABLE_ID** with *TABLE_ID* while retaining the accents (**`**) on both sides:
+- Add the following to the **BigQuery Editor** and **REPLACE_YOUR_TABLE_ID** with _TABLE_ID_ while retaining the accents (**`**) on both sides:
 
 ```
 #standardSQL
@@ -51,6 +52,7 @@ bytes DESC
 LIMIT
 15
 ```
+
 ```
 #standardSQL
 SELECT
@@ -75,9 +77,9 @@ LIMIT
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

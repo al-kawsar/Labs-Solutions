@@ -14,8 +14,9 @@ export FWL_3=
 export ZONE_1=
 export ZONE_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Set%20Up%20a%20Google%20Cloud%20Network%20Challenge%20Lab/gsp314.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Set%20Up%20a%20Google%20Cloud%20Network%20Challenge%20Lab/gsp314.sh
 
 sudo chmod +x gsp314.sh
 
@@ -24,9 +25,9 @@ sudo chmod +x gsp314.sh
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -7,8 +7,9 @@
 ```
 export API_KEY=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Analyze%20Speech%20%26%20Language%20with%20Google%20APIs%20Challenge%20Lab/arc114.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Analyze%20Speech%20%26%20Language%20with%20Google%20APIs%20Challenge%20Lab/arc114.sh
 
 sudo chmod +x arc114.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x arc114.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

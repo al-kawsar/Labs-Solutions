@@ -5,12 +5,13 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Vertex%20AI%20Qwik%20Start/gsp917.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Vertex%20AI%20Qwik%20Start/gsp917.sh
 
 sudo chmod +x gsp917.sh
 
 ./gsp917.sh
 ```
+
 ### In the open terminal, run the following command to install the lab dependencies:
 
 ```
@@ -23,12 +24,12 @@ pip uninstall openpyxl -y
 pip install openpyxl
 ```
 
-### Congratulations 🎉 for Completing the Lab!  
+### Congratulations 🎉 for Completing the Lab!
 
-##### *You Have Successfully Demonstrated Your Skills and Determination.*  
+##### _You Have Successfully Demonstrated Your Skills and Determination._
 
-#### *Excellent Work—Keep Reaching for New Heights!*  
+#### _Excellent Work—Keep Reaching for New Heights!_
 
-#### Be part of the community—join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats)!  
+#### Be part of the community—join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion Group](https://t.me/cloudwalabandachats)!
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

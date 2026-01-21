@@ -5,7 +5,7 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/mini%20lab%20BigQuery%205/shell.sh
+curl -LO https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/mini%20lab%20BigQuery%205/shell.sh
 
 sudo chmod +x *.sh
 
@@ -18,6 +18,7 @@ Your hard work and determination paid off! 💻
 You've successfully completed the lab. **Way to go!** 🚀
 
 ### 💬 Stay Connected with Our Community!
+
 👉 Join the conversation and never miss an update:📢 [Telegram Channel](https://t.me/cloudwalabanda)
 👥 [Discussion Group](https://t.me/cloudwalabandachats)
 

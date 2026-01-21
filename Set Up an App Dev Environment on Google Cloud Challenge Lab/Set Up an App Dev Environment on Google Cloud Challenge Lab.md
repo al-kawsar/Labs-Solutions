@@ -10,8 +10,9 @@ export ZONE=
 export TOPIC=
 export FUNCTION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Set%20Up%20an%20App%20Dev%20Environment%20on%20Google%20Cloud%20Challenge%20Lab/gsp315.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Set%20Up%20an%20App%20Dev%20Environment%20on%20Google%20Cloud%20Challenge%20Lab/gsp315.sh
 
 sudo chmod +x gsp315.sh
 
@@ -20,9 +21,9 @@ sudo chmod +x gsp315.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

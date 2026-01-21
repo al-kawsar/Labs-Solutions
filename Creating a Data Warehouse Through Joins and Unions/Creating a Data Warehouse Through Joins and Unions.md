@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20a%20Data%20Warehouse%20Through%20Joins%20and%20Unions/gsp413.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Creating%20a%20Data%20Warehouse%20Through%20Joins%20and%20Unions/gsp413.sh
 
 sudo chmod +x gsp413.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x gsp413.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

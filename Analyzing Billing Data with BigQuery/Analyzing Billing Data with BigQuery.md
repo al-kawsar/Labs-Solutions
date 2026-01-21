@@ -5,27 +5,28 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Analyzing%20Billing%20Data%20with%20BigQuery/gsp621.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Analyzing%20Billing%20Data%20with%20BigQuery/gsp621.sh
 
 sudo chmod +x gsp621.sh
 
 ./gsp621.sh
 ```
 
-* Go to **BigQuery** from [here](https://console.cloud.google.com/bigquery?)
+- Go to **BigQuery** from [here](https://console.cloud.google.com/bigquery?)
 
 ```
 SELECT CONCAT(service.description, ' : ',sku.description) as Line_Item FROM `billing_dataset.enterprise_billing` GROUP BY 1
 ```
+
 ```
 SELECT CONCAT(service.description, ' : ',sku.description) as Line_Item, Count(*) as NUM FROM `billing_dataset.enterprise_billing` GROUP BY CONCAT(service.description, ' : ',sku.description)
 ```
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -5,7 +5,7 @@
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Create%20a%20Cosmetic%20Anomaly%20Detection%20Model%20using%20Visual%20Inspection%20AI/gsp897.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Create%20a%20Cosmetic%20Anomaly%20Detection%20Model%20using%20Visual%20Inspection%20AI/gsp897.sh
 
 sudo chmod +x gsp897.sh
 
@@ -14,9 +14,9 @@ sudo chmod +x gsp897.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You've successfully conquered the lab! Your dedication and skills truly shine.*
+##### _You've successfully conquered the lab! Your dedication and skills truly shine._
 
-#### *Keep pushing forward—great things await! 🚀*
+#### _Keep pushing forward—great things await! 🚀_
 
 #### Don't miss out on joining the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

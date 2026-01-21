@@ -8,36 +8,41 @@
 export ZONE=
 gcloud compute ssh centos-clean --zone=$ZONE --quiet
 ```
+
 ### Assign Veriables in `SSH`
+
 ```
 export ZONE=
 export USER2=
 export PROJECT2=
 ```
+
 ```
 gcloud --version
 gcloud auth login --no-launch-browser --quiet
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gCloud%20-%20Azure/gsp1119-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gCloud%20-%20Azure/gsp1119-1.sh
 sudo chmod +x gsp1119-1.sh
 ./gsp1119-1.sh
 ```
+
 ```
 user2
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gCloud%20-%20Azure/gsp1119-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gCloud%20-%20Azure/gsp1119-2.sh
 sudo chmod +x gsp1119-2.sh
 ./gsp1119-2.sh
 ```
 
-
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

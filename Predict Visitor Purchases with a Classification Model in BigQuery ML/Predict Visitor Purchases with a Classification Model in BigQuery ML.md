@@ -5,15 +5,16 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Predict%20Visitor%20Purchases%20with%20a%20Classification%20Model%20in%20BigQuery%20ML/gsp229.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Predict%20Visitor%20Purchases%20with%20a%20Classification%20Model%20in%20BigQuery%20ML/gsp229.sh
 
 sudo chmod +x gsp229.sh
 
 ./gsp229.sh
 ```
-* Go to BigQuery from [here](https://console.cloud.google.com/bigquery)
 
-* *Copy and paste the following query into the `BigQuery Editor`:*
+- Go to BigQuery from [here](https://console.cloud.google.com/bigquery)
+
+- _Copy and paste the following query into the `BigQuery Editor`:_
 
 ```
 #standardSQL
@@ -90,9 +91,9 @@ SELECT * EXCEPT(unique_session_id) FROM (
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

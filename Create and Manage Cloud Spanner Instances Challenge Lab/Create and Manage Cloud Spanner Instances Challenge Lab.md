@@ -7,21 +7,22 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%20Challenge%20Lab/gsp381.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%20Challenge%20Lab/gsp381.sh
 
 sudo chmod +x gsp381.sh
 
 ./gsp381.sh
 ```
 
-* Go to `Dataflow Job` from [here](https://console.cloud.google.com/dataflow/jobs?)
+- Go to `Dataflow Job` from [here](https://console.cloud.google.com/dataflow/jobs?)
 
 ### Congratulations 🎉 for completing the Challenge Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -3,24 +3,26 @@
 ## Solution [here](https://youtu.be/CG6ra5LPDvE)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/VPC%20Flow%20Logs%20-%20Analyzing%20Network%20Traffic/gsp212.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/VPC%20Flow%20Logs%20-%20Analyzing%20Network%20Traffic/gsp212.sh
 
 sudo chmod +x gsp212.sh
 
 ./gsp212.sh
 ```
 
-* Go to `allow-http-ssh` Firewall from [here](https://console.cloud.google.com/net-security/firewall-manager/firewall-policies/details/allow-http-ssh?)
+- Go to `allow-http-ssh` Firewall from [here](https://console.cloud.google.com/net-security/firewall-manager/firewall-policies/details/allow-http-ssh?)
 
-* Go to `Create sink` from [here](https://console.cloud.google.com/logs/router/sink?)
+- Go to `Create sink` from [here](https://console.cloud.google.com/logs/router/sink?)
 
-* For `Sink Name`, type or paste `vpc-flows` 
+- For `Sink Name`, type or paste `vpc-flows`
 
-* Paste the following in `Build inclusion filter` and Change `PROJECT_ID`
+- Paste the following in `Build inclusion filter` and Change `PROJECT_ID`
 
 ```
 resource.type="gce_subnetwork"
@@ -38,9 +40,9 @@ for ((i=1;i<=50;i++)); do curl $MY_SERVER; done
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

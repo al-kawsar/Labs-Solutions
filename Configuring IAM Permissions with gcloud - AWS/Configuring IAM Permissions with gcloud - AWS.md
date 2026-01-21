@@ -8,24 +8,30 @@
 export ZONE=$(gcloud compute instances list debian-clean --format 'csv[no-heading](zone)')
 gcloud compute ssh debian-clean --zone=$ZONE --quiet
 ```
+
 ### Assign Veriables in `SSH`
+
 ```
 export USER2=
 export PROJECT2=
 ```
+
 ```
 export ZONE=$(gcloud compute instances list debian-clean --format 'csv[no-heading](zone)')
 gcloud --version
 gcloud auth login --no-launch-browser --quiet
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gcloud%20-%20AWS/gsp1126.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Configuring%20IAM%20Permissions%20with%20gcloud%20-%20AWS/gsp1126.sh
 sudo chmod +x gsp1126.sh
 ./gsp1126.sh
 ```
+
 ```
 user2
 ```
+
 ```
 gcloud compute instances create lab-2 --machine-type=e2-standard-2
 gcloud config configurations activate default
@@ -57,12 +63,11 @@ gcloud projects add-iam-policy-binding $PROJECTID2 --member serviceAccount:$SA -
 gcloud compute instances create lab-3 --machine-type=e2-standard-2 --service-account $SA --scopes "https://www.googleapis.com/auth/compute"
 ```
 
-
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

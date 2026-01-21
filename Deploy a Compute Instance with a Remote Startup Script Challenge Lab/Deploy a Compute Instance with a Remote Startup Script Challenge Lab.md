@@ -7,8 +7,9 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploy%20a%20Compute%20Instance%20with%20a%20Remote%20Startup%20Script%20Challenge%20Lab/gsp301.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Deploy%20a%20Compute%20Instance%20with%20a%20Remote%20Startup%20Script%20Challenge%20Lab/gsp301.sh
 
 sudo chmod +x gsp301.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp301.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

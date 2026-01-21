@@ -3,22 +3,24 @@
 ## Solution [here](https://youtu.be/bzzccLvbFH8)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Working%20with%20Virtual%20Machines/VM.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Working%20with%20Virtual%20Machines/VM.sh
 
 sudo chmod +x VM.sh
 
-./VM.sh 
+./VM.sh
 ```
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

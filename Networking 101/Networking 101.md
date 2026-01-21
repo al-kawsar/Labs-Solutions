@@ -9,8 +9,9 @@ export REGION_1=
 export REGION_2=
 export REGION_3=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Networking%20101/gsp016.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Networking%20101/gsp016.sh
 
 sudo chmod +x gsp016.sh
 
@@ -19,9 +20,9 @@ sudo chmod +x gsp016.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

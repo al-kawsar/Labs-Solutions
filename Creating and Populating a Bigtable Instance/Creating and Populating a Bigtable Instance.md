@@ -7,23 +7,24 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Creating%20and%20Populating%20a%20Bigtable%20Instance/gsp1054.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Creating%20and%20Populating%20a%20Bigtable%20Instance/gsp1054.sh
 
 sudo chmod +x gsp1054.sh
 
 ./gsp1054.sh
 ```
-* Go to `Create job from template` from [here](https://console.cloud.google.com/dataflow/createjob?)
 
-* Delete `table` & `Instance` from [here](https://console.cloud.google.com/bigtable/instances/personalized-sales/tables?)
+- Go to `Create job from template` from [here](https://console.cloud.google.com/dataflow/createjob?)
 
+- Delete `table` & `Instance` from [here](https://console.cloud.google.com/bigtable/instances/personalized-sales/tables?)
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

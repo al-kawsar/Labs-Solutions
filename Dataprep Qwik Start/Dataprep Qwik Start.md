@@ -5,20 +5,20 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Dataprep%20Qwik%20Start/gsp105.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Dataprep%20Qwik%20Start/gsp105.sh
 
 sudo chmod +x gsp105.sh
 
 ./gsp105.sh
 ```
 
-* Go to Dataprep from [here](https://console.cloud.google.com/dataprep)
+- Go to Dataprep from [here](https://console.cloud.google.com/dataprep)
 
 ### Congratulations 🎉 for Completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

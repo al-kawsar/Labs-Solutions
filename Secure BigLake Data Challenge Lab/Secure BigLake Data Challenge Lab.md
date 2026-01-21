@@ -2,14 +2,14 @@
 
 ## 💡 Solution [here](https://youtu.be/cX2bsOHifis)
 
-
-### 🚀 **Steps to Execute in Cloud Shell:** 
+### 🚀 **Steps to Execute in Cloud Shell:**
 
 ```
  export USER_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Secure%20BigLake%20Data%20Challenge%20Lab/arc129.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Secure%20BigLake%20Data%20Challenge%20Lab/arc129.sh
 
 sudo chmod +x arc129.sh
 
@@ -18,10 +18,10 @@ sudo chmod +x arc129.sh
 
 ## 🎉 Congratulations on Completing the Lab!
 
-##### *You’ve demonstrated excellent skills and perseverance—great work!*  
+##### _You’ve demonstrated excellent skills and perseverance—great work!_
 
-#### *Keep the momentum going—more success is just around the corner!* 🚀  
+#### _Keep the momentum going—more success is just around the corner!_ 🚀
 
-### **Join the community for more resources and support:** **[Telegram Channel](https://t.me/cloudwalabanda)** &  **[Discussion Group](https://t.me/cloudwalabandachats)**   
+### **Join the community for more resources and support:** **[Telegram Channel](https://t.me/cloudwalabanda)** & **[Discussion Group](https://t.me/cloudwalabandachats)**
 
-# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)  
+# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

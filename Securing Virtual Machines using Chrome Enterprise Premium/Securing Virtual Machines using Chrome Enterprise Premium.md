@@ -5,19 +5,19 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Securing%20Virtual%20Machines%20using%20Chrome%20Enterprise%20Premium/gsp1036.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Securing%20Virtual%20Machines%20using%20Chrome%20Enterprise%20Premium/gsp1036.sh
 
 sudo chmod +x gsp1036.sh
 
 ./gsp1036.sh
 ```
 
-### Congratulations 🎉 on Completing the Lab!  
+### Congratulations 🎉 on Completing the Lab!
 
-##### *Your hard work and persistence have truly paid off. Outstanding effort!*  
+##### _Your hard work and persistence have truly paid off. Outstanding effort!_
 
-#### *Keep striving for greatness!*  
+#### _Keep striving for greatness!_
 
-#### Join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) to connect with the community and share your insights.  
+#### Join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) to connect with the community and share your insights.
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

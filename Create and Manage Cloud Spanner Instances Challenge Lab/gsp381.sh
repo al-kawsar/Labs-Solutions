@@ -83,7 +83,7 @@ VALUES
   (8, 4, 3, "Permanent Life Insurance", "PermLife", "Insurance LOB"),
   (9, 2, 2, "US Savings Bonds", "USSavBond", "Investment LOB")'
 
-curl -LO https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%20Challenge%20Lab/Customer_List_500.csv
+curl -LO https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20and%20Manage%20Cloud%20Spanner%20Instances%20Challenge%20Lab/Customer_List_500.csv
 
 gcloud services disable dataflow.googleapis.com --force
 gcloud services enable dataflow.googleapis.com

@@ -10,18 +10,18 @@ export ZONE=$(gcloud compute instances list document-ai-dev --format 'csv[no-hea
 gcloud compute ssh document-ai-dev --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
 ```
 
-* Go to `Document AI` from [here](https://console.cloud.google.com/ai/document-ai?)
+- Go to `Document AI` from [here](https://console.cloud.google.com/ai/document-ai?)
 
-* Specify the processor name as `form-parser`
+- Specify the processor name as `form-parser`
 
-* Download the [form.pdf](https://storage.googleapis.com/cloud-training/document-ai/generic/form.pdf) file to your local machine.
+- Download the [form.pdf](https://storage.googleapis.com/cloud-training/document-ai/generic/form.pdf) file to your local machine.
 
 ```
 export PROCESSOR_ID=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Create%20and%20Test%20a%20Document%20AI%20Processor/gsp924.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Create%20and%20Test%20a%20Document%20AI%20Processor/gsp924.sh
 
 sudo chmod +x gsp924.sh
 
@@ -30,9 +30,9 @@ sudo chmod +x gsp924.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

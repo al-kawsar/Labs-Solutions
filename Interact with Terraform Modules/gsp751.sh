@@ -337,8 +337,8 @@ terraform apply --auto-approve
 
 cd ~
 
-curl https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/index.html > index.html
-curl https://raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/error.html > error.html
+curl https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/index.html > index.html
+curl https://raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Interact%20with%20Terraform%20Modules/error.html > error.html
 
 gsutil cp *.html gs://$DEVSHELL_PROJECT_ID
 

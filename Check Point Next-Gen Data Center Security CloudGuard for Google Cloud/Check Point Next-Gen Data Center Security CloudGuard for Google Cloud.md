@@ -7,8 +7,9 @@
 ```
 export ZONE=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Check%20Point%20Next-Gen%20Data%20Center%20Security%20CloudGuard%20for%20Google%20Cloud/gsp818.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Check%20Point%20Next-Gen%20Data%20Center%20Security%20CloudGuard%20for%20Google%20Cloud/gsp818.sh
 
 sudo chmod +x gsp818.sh
 
@@ -17,9 +18,9 @@ sudo chmod +x gsp818.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

@@ -2,23 +2,23 @@
 
 ## Solution [here](https://youtu.be/I5sP3Z8VdXA)
 
-* Go to `Create database` from [here](https://console.cloud.google.com/firestore/create-database?)
+- Go to `Create database` from [here](https://console.cloud.google.com/firestore/create-database?)
 
 ### Create a New Document Collection
 
-* For Collection ID Paste the Following
+- For Collection ID Paste the Following
 
 ```
 customers
 ```
 
-* To generate an ID for a document in this collection, click into `Document ID`.
+- To generate an ID for a document in this collection, click into `Document ID`.
 
-* Now Paste the following
+- Now Paste the following
 
 |   Field   |  Type  |  Value  |
-|   :---:   | :----: | :----:  |
-| firstname | string | Lucas   |
+| :-------: | :----: | :-----: |
+| firstname | string |  Lucas  |
 | lastname  | string | Sherman |
 
 ### Run the following Commands in CloudShell
@@ -26,25 +26,26 @@ customers
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/shell.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Integrating%20Cloud%20Functions%20with%20Firestore/shell.sh
 
 sudo chmod +x shell.sh
 
 ./shell.sh
 ```
 
-* Delete and Re-Create Last Field
+- Delete and Re-Create Last Field
 
-|   Field   |  Type  |  Value  |
-|   :---:   | :----: | :----:  |
-| lastname  | string | Sherman |
+|  Field   |  Type  |  Value  |
+| :------: | :----: | :-----: |
+| lastname | string | Sherman |
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

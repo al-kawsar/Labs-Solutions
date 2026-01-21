@@ -5,20 +5,21 @@
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Offloading%20Financial%20Mainframe%20Data%20into%20BigQuery%20and%20Elastic%20Search/gsp1153.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Offloading%20Financial%20Mainframe%20Data%20into%20BigQuery%20and%20Elastic%20Search/gsp1153.sh
 
 sudo chmod +x *.sh
 
 ./*.sh
 ```
 
-# 🎉 Woohoo! You Did It! 🎉  
+# 🎉 Woohoo! You Did It! 🎉
 
 Your hard work and determination paid off! 💻  
 You've successfully completed the lab. **Way to go!** 🚀
 
-### 💬 Stay Connected with Our Community!  
-👉 Join the conversation and never miss an update:  📢 [Telegram Channel](https://t.me/cloudwalabanda)  
-👥 [Discussion Group](https://t.me/cloudwalabandachats)  
+### 💬 Stay Connected with Our Community!
+
+👉 Join the conversation and never miss an update: 📢 [Telegram Channel](https://t.me/cloudwalabanda)  
+👥 [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

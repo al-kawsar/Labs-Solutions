@@ -3,14 +3,17 @@
 ## Solution [here](https://youtu.be/tN44hTxFUQ4)
 
 ### Run the following Commands in CloudShell
+
 ```
 export ZONE_1=
 ```
+
 ```
 export ZONE_2=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Getting%20Started%20with%20VPC%20Networking%20and%20Google%20Compute%20Engine/vpc.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Getting%20Started%20with%20VPC%20Networking%20and%20Google%20Compute%20Engine/vpc.sh
 
 sudo chmod +x vpc.sh
 
@@ -19,9 +22,9 @@ sudo chmod +x vpc.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

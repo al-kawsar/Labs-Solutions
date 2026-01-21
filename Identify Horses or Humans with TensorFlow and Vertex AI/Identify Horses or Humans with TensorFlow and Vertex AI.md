@@ -7,19 +7,19 @@
 ```
 rm CLS_Vertex_AI_CNN_horse_or_human-v1.0.0.ipynb
 
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Identify%20Horses%20or%20Humans%20with%20TensorFlow%20and%20Vertex%20AI/CLS_Vertex_AI_CNN_horse_or_human-v1.0.0.ipynb
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Identify%20Horses%20or%20Humans%20with%20TensorFlow%20and%20Vertex%20AI/CLS_Vertex_AI_CNN_horse_or_human-v1.0.0.ipynb
 ```
 
 # 🎉 Woohoo! You Did It! 🎉
 
 Your hard work and determination paid off! 💻  
-You've successfully completed the lab. Way to go! 🚀  
+You've successfully completed the lab. Way to go! 🚀
 
 ### 💬 Stay Connected with Our Community!
 
-👉 Join the conversation and never miss an update:  
+👉 Join the conversation and never miss an update:
 
-💚 [WhatsApp Community](https://chat.whatsapp.com/ECJ9h8GA3CA1ksaI9m5NrX)  📢 [Telegram Channel](https://t.me/cloudwalabanda)  
-👥 [Discussion Group](https://t.me/cloudwalabandachats)  
+💚 [WhatsApp Community](https://chat.whatsapp.com/ECJ9h8GA3CA1ksaI9m5NrX) 📢 [Telegram Channel](https://t.me/cloudwalabanda)  
+👥 [Discussion Group](https://t.me/cloudwalabandachats)
 
 # [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

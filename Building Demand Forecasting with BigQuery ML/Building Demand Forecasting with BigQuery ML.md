@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-1.sh
 
 sudo chmod +x gsp852-1.sh
 
@@ -29,20 +29,20 @@ GROUP BY
  trip_date
 ```
 
-* Select `SAVE RESULTS` .
+- Select `SAVE RESULTS` .
 
-* In the dropdown menu, select `BigQuery Table`.
+- In the dropdown menu, select `BigQuery Table`.
 
-* For Dataset select `bqmlforecast`.
+- For Dataset select `bqmlforecast`.
 
-* Add a Table name `training_data` .
+- Add a Table name `training_data` .
 
-* Click *EXPORT*.
+- Click _EXPORT_.
 
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Building%20Demand%20Forecasting%20with%20BigQuery%20ML/gsp852-2.sh
 
 sudo chmod +x gsp852-2.sh
 
@@ -51,9 +51,9 @@ sudo chmod +x gsp852-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

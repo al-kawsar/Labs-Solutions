@@ -7,8 +7,9 @@
 ```
 export LOCATION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Get%20Started%20with%20Dataplex%20Challenge%20Lab/arc117.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Get%20Started%20with%20Dataplex%20Challenge%20Lab/arc117.sh
 
 sudo chmod +x arc117.sh
 
@@ -19,13 +20,13 @@ sudo chmod +x arc117.sh
 
 1. Go to Templates from [here](https://console.cloud.google.com/dataplex/templates/create)
 
-* follow video instructions
+- follow video instructions
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

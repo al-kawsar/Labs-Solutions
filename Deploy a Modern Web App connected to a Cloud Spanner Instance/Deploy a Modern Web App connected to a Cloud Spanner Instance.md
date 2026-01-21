@@ -7,11 +7,13 @@
 ```
 export REGION=
 ```
+
 ```
 nvm install 22.6
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Deploy%20a%20Modern%20Web%20App%20connected%20to%20a%20Cloud%20Spanner%20Instance/gsp1051.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Deploy%20a%20Modern%20Web%20App%20connected%20to%20a%20Cloud%20Spanner%20Instance/gsp1051.sh
 
 sudo chmod +x gsp1051.sh
 
@@ -20,9 +22,9 @@ sudo chmod +x gsp1051.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

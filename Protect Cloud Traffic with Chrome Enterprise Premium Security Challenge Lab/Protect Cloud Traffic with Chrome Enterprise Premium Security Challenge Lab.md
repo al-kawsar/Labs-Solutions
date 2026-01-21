@@ -5,19 +5,19 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Protect%20Cloud%20Traffic%20with%20Chrome%20Enterprise%20Premium%20Security%20Challenge%20Lab/gsp373.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Protect%20Cloud%20Traffic%20with%20Chrome%20Enterprise%20Premium%20Security%20Challenge%20Lab/gsp373.sh
 
 sudo chmod +x gsp373.sh
 
 ./gsp373.sh
 ```
 
-### Congratulations 🎉 for Completing the Lab!  
+### Congratulations 🎉 for Completing the Lab!
 
-##### *You Have Successfully Demonstrated Your Skills and Perseverance.*  
+##### _You Have Successfully Demonstrated Your Skills and Perseverance._
 
-#### *Outstanding Effort—Well Done!* 
+#### _Outstanding Effort—Well Done!_
 
-#### Stay connected and updated—join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) today!  
+#### Stay connected and updated—join the [Telegram Channel](https://t.me/cloudwalabanda) and [Discussion Group](https://t.me/cloudwalabandachats) today!
 
-# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)  
+# [Cloud Wala Banda](https://www.youtube.com/@cloudwalabanda)

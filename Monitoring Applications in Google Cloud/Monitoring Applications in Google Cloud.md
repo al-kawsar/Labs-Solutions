@@ -7,20 +7,21 @@
 ```
 export REGION=
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Monitoring%20Applications%20in%20Google%20Cloud/shell-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Monitoring%20Applications%20in%20Google%20Cloud/shell-1.sh
 
 sudo chmod +x shell-1.sh
 
 ./shell-1.sh
 ```
 
-* For Title enter **App Engine Uptime Check**
+- For Title enter **App Engine Uptime Check**
 
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/refs/heads/main/Monitoring%20Applications%20in%20Google%20Cloud/shell-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/refs/heads/main/Monitoring%20Applications%20in%20Google%20Cloud/shell-2.sh
 
 sudo chmod +x shell-2.sh
 
@@ -29,9 +30,9 @@ sudo chmod +x shell-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

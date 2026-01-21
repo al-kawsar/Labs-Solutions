@@ -5,15 +5,17 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Authentication%2C%20Authorization%2C%20and%20Identity%20with%20Vault/gsp1005-1.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Authentication%2C%20Authorization%2C%20and%20Identity%20with%20Vault/gsp1005-1.sh
 
 sudo chmod +x gsp1005-1.sh
 
 ./gsp1005-1.sh
 ```
+
 ```
 export VAULT_TOKEN=""
 ```
+
 ```
 export VAULT_ADDR='http://127.0.0.1:8200'
 
@@ -39,14 +41,17 @@ vault read auth/approle/role/jenkins/role-id
 
 vault write -force auth/approle/role/jenkins/secret-id
 ```
+
 ```
 vault write auth/approle/login role_id="REPLACE-ROLE-ID" secret_id="REPLACE-SECRET-ID"
 ```
+
 ```
 export APP_TOKEN=""
 ```
+
 ```
-curl -LO raw.githubusercontent.com/Cloud-Wala-Banda/Labs-Solutions/main/Authentication%2C%20Authorization%2C%20and%20Identity%20with%20Vault/gsp1005-2.sh
+curl -LO raw.githubusercontent.com/al-kawsar/Labs-Solutions/main/Authentication%2C%20Authorization%2C%20and%20Identity%20with%20Vault/gsp1005-2.sh
 
 sudo chmod +x gsp1005-2.sh
 
@@ -55,9 +60,9 @@ sudo chmod +x gsp1005-2.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### _You Have Successfully Demonstrated Your Skills And Determination._
 
-#### *Well done!*
+#### _Well done!_
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudwalabanda) & [Discussion group](https://t.me/cloudwalabandachats)
 

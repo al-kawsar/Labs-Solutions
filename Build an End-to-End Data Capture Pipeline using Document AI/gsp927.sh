@@ -151,7 +151,7 @@ while true; do
       --no-gen2 \
       --region="${CLOUD_FUNCTION_LOCATION}" \
       --entry-point=process_invoice \
-      --runtime=python39 \
+      --runtime=python3.13 \
       --source=cloud-functions/process-invoices \
       --timeout=400 \
       --env-vars-file=cloud-functions/process-invoices/.env.yaml \
@@ -180,7 +180,7 @@ deploy_geocode_addresses_until_success() {
       --no-gen2 \
       --region="${CLOUD_FUNCTION_LOCATION}" \
       --entry-point=process_address \
-      --runtime=python39 \
+      --runtime=python3.13 \
       --source=cloud-functions/geocode-addresses \
       --timeout=60 \
       --env-vars-file=cloud-functions/geocode-addresses/.env.yaml \
@@ -215,7 +215,7 @@ gcloud functions deploy process-invoices \
       --no-gen2 \
       --region="${CLOUD_FUNCTION_LOCATION}" \
       --entry-point=process_invoice \
-      --runtime=python39 \
+      --runtime=python3.13 \
       --source=cloud-functions/process-invoices \
       --timeout=400 \
       --update-env-vars=PROCESSOR_ID=${PROCESSOR_ID},PARSER_LOCATION=us,GCP_PROJECT=${PROJECT_ID} \
@@ -228,7 +228,7 @@ gcloud functions deploy geocode-addresses \
       --no-gen2 \
       --region="${CLOUD_FUNCTION_LOCATION}" \
       --entry-point=process_address \
-      --runtime=python39 \
+      --runtime=python3.13 \
       --source=cloud-functions/geocode-addresses \
       --timeout=60 \
       --update-env-vars=API_key=${API_KEY} \
